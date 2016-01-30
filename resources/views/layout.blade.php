@@ -12,15 +12,15 @@
     <title>Gospelpillars TV </title>
 
     <!-- Bootstrap Core CSS - -->
-    <link href="{{ URL::asset('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href={{ URL::asset('css/freelancer.css') }} rel="stylesheet">
-    <link href={{ URL::asset('css/custom.css') }} rel="stylesheet">
-    <link href={{ URL::asset('css/dashboard.css') }} rel="stylesheet">
+    <link href="/css/freelancer.css" rel="stylesheet">
+    <link href=/css/custom.css" rel="stylesheet">
+    <link href="/css/dashboard.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href={{ URL::asset('font-awesome/css/font-awesome.min.css') }} rel="stylesheet" type="text/css">
+    <link href="asset/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
