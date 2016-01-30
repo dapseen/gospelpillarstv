@@ -1,0 +1,17 @@
+.container-admin {
+
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+.title {
+    margin-top:100px;
+    font-size: 40px;
+    text-align: center;
+}
